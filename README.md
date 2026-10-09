@@ -30,7 +30,7 @@ Navigate to server folder and run `npm run test`.
 
 ## Running frontend tests with Playwright
 
-Navigate to root folder and run `npx playwright test`. Make sure, that backend is running. Playwright configuration will start frontend, if not running, but not the backend..
+Navigate to root folder and run `npx playwright test`. Make sure, that backend is running. Playwright configuration will start frontend, if not running, but not the backend.
 
 
 
